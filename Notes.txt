@@ -1,0 +1,14 @@
+**Primitive Data types**
+
+Whole number
+- byte, int, short, long
+
+Real number
+- float double
+
+Single Character - char
+Boolean Value - boolean
+
+Overflow & Underflow
+- happens only when used in expressions
+- compiler will give error when we are assigning.
