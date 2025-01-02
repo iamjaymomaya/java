@@ -12,3 +12,20 @@ Boolean Value - boolean
 Overflow & Underflow
 - happens only when used in expressions
 - compiler will give error when we are assigning.
+
+**Casting**
+
+Ex: int num = 25365 + 2545;
+// this will throw error
+byte myNewByte = num / 2;
+
+byte myNewByte = (byte)(num / 2);
+
+
+**Floating point numbers**
+- Float
+- Double: Double is default floating point number in Java.
+
+
+**Char vs String**
+- char holds one character
